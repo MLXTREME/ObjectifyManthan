@@ -1,8 +1,10 @@
 # Objectify - Team CodeDevs (Manthan 2021)
 
-
 <p align="center">
     Object Detection, Semantic and Instance Segmentation - By <i>Team CodeDevs</i> for Competition <i>Manthan21</i> code will be released prior Idea Submission Selection.
+</p>
+
+<p align="center">
     <img width="50%" height="auto"  src="https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png" height="80px"/>
 </p>
 
