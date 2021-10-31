@@ -46,9 +46,10 @@ Code will be released prior Idea Submission Selection.
 
 </p>
 
-## Object Detection using Pointrend Model
+# Object Detection using Pointrend Model:
 
 ![maskboxes](https://user-images.githubusercontent.com/78292851/139590557-26d106c5-b080-40b0-837e-caf03a7015f0.jpg)
+
 For performing segmentation of the objects in images and videos, PixelLib library is used, and so we have invoked the same in our respective project. 
 PixelLib provides support for Pytorch and it uses PointRend for performing more accurate and real time instance segmentation of objects in images and videos. Hence, annotations over the image takes place once the work is done.
 
