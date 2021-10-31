@@ -119,7 +119,7 @@ For the task of `semantic segmentation` (or any `dense pixel prediction`), we pr
 
 
 
-![object-detection](https://user-images.githubusercontent.com/78292851/139591596-7d5eef8f-2fb3-4819-b7f1-d62fcfd3bb4b.gif)
+<img  align="center" src="https://user-images.githubusercontent.com/78292851/139591596-7d5eef8f-2fb3-4819-b7f1-d62fcfd3bb4b.gif"/>
 
 <p align="center"> <b>Object Detection</b> </p>
 
