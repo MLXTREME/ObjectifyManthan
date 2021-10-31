@@ -2,8 +2,8 @@
 Object Detection, Semantic and Instance Segmentation - by Team CodeDevs for Competition Manthan
 Code will be released prior Idea Submission Selection.
 
-<a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png" height="100px"/></a>
-ts of Interest
+<a href="#"><img width="50%" height="auto" align="center" src="https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png" height="100px"/></a>
+
 - Vehicles (Truck, Bus, Boat, Airplane)
 - Roads Signage - (Zebra Crossing, Traffic Light)
 - Man-Made Architectures - (Buildings, Bridges)
