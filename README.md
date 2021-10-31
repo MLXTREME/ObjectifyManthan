@@ -73,6 +73,8 @@ For the task of semantic segmentation (or any dense pixel prediction), we propos
 
 
 
+![object-detection](https://user-images.githubusercontent.com/78292851/139591596-7d5eef8f-2fb3-4819-b7f1-d62fcfd3bb4b.gif)
+
 
 
 ![1_J33mxWAtCSEV1GsWV3vKLQ](https://user-images.githubusercontent.com/78292851/139591258-600d7341-66e0-47d9-85c7-409eaf4d01c3.gif)
