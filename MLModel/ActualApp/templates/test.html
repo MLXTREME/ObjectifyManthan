@@ -1,0 +1,46 @@
+{%extends "base.html" %}
+
+    {%block body%}
+    <section
+    class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+    <div class="content" ">
+        <form action='/test' method="POST" action="/" enctype="multipart/form-data">
+            {{ form.csrf_token() }}
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <input type="file" name="file" id="file" accept="image/*" onchange="previewImage();">
+        
+            <img id="preview">
+                    {{ form.csrf_token() }}
+                    <label for=""> {{ form.photo.label }}</label>
+                    
+                </div>
+                <div class="form-group">
+                    {{ form.submit(class="btn btn-primary")}}
+                </div>
+            </div>
+            
+            <br><br>
+            
+           
+        </form>
+    </div>
+    
+    <script>
+        function previewImage() {
+            var file = document.getElementById("file").files;
+            if (file.length > 0) {
+                var fileReader = new FileReader();
+    
+                fileReader.onload = function (event) {
+                    document.getElementById("preview").setAttribute("src", event.target.result);
+                };
+    
+                fileReader.readAsDataURL(file[0]);
+            }
+        }
+    </script>
+
+    
+  {%endblock%}
+   

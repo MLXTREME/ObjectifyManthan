@@ -1,0 +1,16 @@
+imgaug
+numpy
+opencv-python
+imantics
+PyQt5
+labelme
+# matplotlib==3.2 # latest ==3.3.4
+Flask
+wget
+pixellib
+ipykernel
+torch
+pycocotools
+torchvision
+mxnet
+fastseg

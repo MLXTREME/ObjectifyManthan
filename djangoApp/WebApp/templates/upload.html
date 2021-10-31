@@ -1,0 +1,14 @@
+{%extends 'base.html' %}
+{%load static%}
+{%block body%}
+<br><br><br><br><br>
+<div class="container">
+<form method="POST" enctype="multipart/form-data">
+    
+	{% csrf_token %}
+	{{ form.as_p }}
+	<input type="submit" value="Submit"></form>
+    <br><br><br><br><br><br><br><br><br><br>
+
+</div>
+{% endblock %}
