@@ -46,10 +46,24 @@ Code will be released prior Idea Submission Selection.
 
 </p>
 
+
+
 # Object Detection using Pointrend Model:
 
 ![maskboxes](https://user-images.githubusercontent.com/78292851/139590557-26d106c5-b080-40b0-837e-caf03a7015f0.jpg)
 
 For performing segmentation of the objects in images and videos, PixelLib library is used, and so we have invoked the same in our respective project. 
 PixelLib provides support for Pytorch and it uses PointRend for performing more accurate and real time instance segmentation of objects in images and videos. Hence, annotations over the image takes place once the work is done.
+
+
+# Instance Segmentation using MobileNetV3:
+
+
+![unnamed](https://user-images.githubusercontent.com/78292851/139590680-7c86e652-411a-41bf-b047-c6e4ebf0311b.png)
+![unnamed (1)](https://user-images.githubusercontent.com/78292851/139590682-b8fed9ac-74a0-45dd-b282-8762673b37db.png)
+
+The implementation of the MobileNetV3 architecture follows closely the original paper and it is customizable and offers different configurations for building Classification, Object Detection and Semantic Segmentation backbones. 
+Furthermore, it was designed to follow a similar structure to MobileNetV2 and the two share common building blocks. The MobileNetV3 class is responsible for building a network out of the provided configuration. The models are then adapted and applied to the tasks of object detection and semantic segmentation. 
+For the task of semantic segmentation (or any dense pixel prediction), we propose a new efficient segmentation decoder to achieve new state of the art results for mobile classification, detection and segmentation. Finally, the project tries to faithfully implement MobileNetV3 for real-time semantic segmentation, with the aims of being efficient, easy to use, and extensible.
+
 
