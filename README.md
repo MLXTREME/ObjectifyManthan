@@ -1,5 +1,6 @@
 # Objectify - Team CodeDevs (Manthan 2021)
 Object Detection, Semantic and Instance Segmentation - by Team CodeDevs for Competition Manthan
+Code will be released prior Idea Submission Selection.
 
 ### Objects of Interest
 - Vehicles (Truck, Bus, Boat, Airplane)
