@@ -2,7 +2,9 @@
 Object Detection, Semantic and Instance Segmentation - by Team CodeDevs for Competition Manthan
 Code will be released prior Idea Submission Selection.
 
-### Objects of Interest
+
+### Objec![Black and Red Cool and Funky Gaming Logo](https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png)
+ts of Interest
 - Vehicles (Truck, Bus, Boat, Airplane)
 - Roads Signage - (Zebra Crossing, Traffic Light)
 - Man-Made Architectures - (Buildings, Bridges)
