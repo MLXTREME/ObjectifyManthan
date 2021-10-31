@@ -35,14 +35,14 @@ Code will be released prior Idea Submission Selection.
 ## Tech Stack:
 
 <p align="left">
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"/> </a>
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/django.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/django.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://www.geeksforgeeks.org/machine-learning/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/>></a>
+     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/>></a>
 
 </p>
 
