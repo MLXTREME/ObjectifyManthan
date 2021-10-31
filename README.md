@@ -128,3 +128,4 @@ For the task of `semantic segmentation` (or any `dense pixel prediction`), we pr
 ![1_J33mxWAtCSEV1GsWV3vKLQ](https://user-images.githubusercontent.com/78292851/139591258-600d7341-66e0-47d9-85c7-409eaf4d01c3.gif)
 
 <p align="center"> <b>Instance Segmentation</b> </p>
+<b> ~By CodeDevs</b>
