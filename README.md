@@ -36,7 +36,7 @@ Code will be released prior Idea Submission Selection.
 
 <p align="left">
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/office/16/000000/css.png"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
