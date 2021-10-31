@@ -14,9 +14,9 @@ Object Detection, Semantic and Instance Segmentation -
 By `Team CodeDevs` for Competition `Manthan21`
 Code will be released prior Idea Submission Selection.
 
-<center>
-<img align="center" width="50%"  src="./assets/codeDevsLogo.png" />
-</center>
+<p align="center">
+<img width="50%"  src="./assets/codeDevsLogo.png" />
+</p>
 <br>
 
     
@@ -55,7 +55,7 @@ Code will be released prior Idea Submission Selection.
 ## **🛠 &nbsp;Tech Stack**
 
 
-<p align="left">
+<p align="center">
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"/ width="45"> </a>
     <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png" width="45"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="45" /> </a>
@@ -86,7 +86,7 @@ Code will be released prior Idea Submission Selection.
 <br>
 
 
-<img src="./assets/objectDetection.jpg" align="center"/>
+<p align="center"><img src="./assets/objectDetection.jpg"/></p>
 
 <br>
 <br>
@@ -107,8 +107,8 @@ For performing `segmentation` of the objects in images and videos, `PixelLib` li
 
 
 
-<center><img src="./assets/instanceSegmentMobileNet.png" align="center"/>
-<img src="./assets/instanceSegmentMobileNet.png" align="center"/>
+<p align="center"><img src="./assets/instanceSegmentMobileNet.png" />
+<img src="./assets/instanceSegmentMobileNet.png" /></p>
 </center>
 
 <br>
@@ -129,13 +129,13 @@ For the task of `semantic segmentation` (or any `dense pixel prediction`), we pr
 
 
 
-<img  align="center" src="https://user-images.githubusercontent.com/78292851/139591596-7d5eef8f-2fb3-4819-b7f1-d62fcfd3bb4b.gif"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/78292851/139591596-7d5eef8f-2fb3-4819-b7f1-d62fcfd3bb4b.gif"/></p>
 
 <p align="center"> <b>Object Detection</b> </p>
 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/78292851/139591258-600d7341-66e0-47d9-85c7-409eaf4d01c3.gif" />
+<p align="center"><img  src="https://user-images.githubusercontent.com/78292851/139591258-600d7341-66e0-47d9-85c7-409eaf4d01c3.gif" /></p>
 
 <p align="center"> <b>Instance Segmentation</b> </p>
 <b> ~By CodeDevs</b>
