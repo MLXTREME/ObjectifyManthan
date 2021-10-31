@@ -1,11 +1,11 @@
 # Objectify - Team CodeDevs (Manthan 2021)
-Object Detection, Semantic and Instance Segmentation - 
-By *Team CodeDevs* for Competition *Manthan21*
-Code will be released prior Idea Submission Selection.
 
-<center>
-<a href="#"><img width="50%" height="auto"  src="https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png" height="80px"/></a>
-</center>
+
+<p align="center">
+    Object Detection, Semantic and Instance Segmentation - By <i>Team CodeDevs</i> for Competition <i>Manthan21</i> code will be released prior Idea Submission Selection.
+    <img width="50%" height="auto"  src="https://user-images.githubusercontent.com/78292851/139589354-64f6d6cd-6af8-47f1-aba7-3f87cc92c3a3.png" height="80px"/>
+</p>
+
     
 - Vehicles (Truck, Bus, Boat, Airplane)
 - Roads Signage - (Zebra Crossing, Traffic Light)
@@ -37,23 +37,24 @@ Code will be released prior Idea Submission Selection.
 
 ## Tech Stack:
 
-<p align="left">
-    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/django.png"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/>></a>
-
+<p align="center">
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html.png"> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"> </a> 
+    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/django.png"> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"> </a> 
+     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"></a>
 </p>
 
 
 
 # Object Detection using Pointrend Model:
 
-![maskboxes](https://user-images.githubusercontent.com/78292851/139590557-26d106c5-b080-40b0-837e-caf03a7015f0.jpg)
+<p align="center">
+    <img width="50%" height="auto"  src="https://user-images.githubusercontent.com/78292851/139590557-26d106c5-b080-40b0-837e-caf03a7015f0.jpg" height="80px"/>
+</p>
 
 For performing segmentation of the objects in images and videos, PixelLib library is used, and so we have invoked the same in our respective project. 
 PixelLib provides support for Pytorch and it uses PointRend for performing more accurate and real time instance segmentation of objects in images and videos. Hence, annotations over the image takes place once the work is done.
@@ -66,6 +67,7 @@ PixelLib provides support for Pytorch and it uses PointRend for performing more 
 ![unnamed (1)](https://user-images.githubusercontent.com/78292851/139590682-b8fed9ac-74a0-45dd-b282-8762673b37db.png)
 
 The implementation of the MobileNetV3 architecture follows closely the original paper and it is customizable and offers different configurations for building Classification, Object Detection and Semantic Segmentation backbones. 
+
 Furthermore, it was designed to follow a similar structure to MobileNetV2 and the two share common building blocks. The MobileNetV3 class is responsible for building a network out of the provided configuration. The models are then adapted and applied to the tasks of object detection and semantic segmentation. 
 For the task of semantic segmentation (or any dense pixel prediction), we propose a new efficient segmentation decoder to achieve new state of the art results for mobile classification, detection and segmentation. Finally, the project tries to faithfully implement MobileNetV3 for real-time semantic segmentation, with the aims of being efficient, easy to use, and extensible.
 
